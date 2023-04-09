@@ -34,6 +34,11 @@
     justify-content: space-between;
 }
 
+.Business-address a {
+    text-decoration: none;
+    color: black;
+}
+
 .Business-reviews {
     display: flex;
     flex-direction: column;
